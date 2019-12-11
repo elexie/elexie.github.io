@@ -1,0 +1,82 @@
+{
+  "bookmarks":[
+    {"title":"PyTorch at Tesla - Andrej Karpathy, Tesla",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
+      "uri":"https://youtu.be/oBklltKXtDE"
+    },
+    {"title":"DJI Phantom 4 Basic Teardown",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://d2otfaypcda2dg.cloudfront.net/blog/wp-content/uploads/2016/03/DJI-Phantom4-Teardown-07-flight-controller-heatsink.jpg",
+      "uri":"https://www.rcgeeks.co.uk/blog/phantom-4-basic-teardown-whats-inside"
+    },
+    {"title":"Koala goes for a walk in portland, Australia",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://assets3.thrillist.com/v1/image/1427556/size/tmg-article_default_mobile.jpg",
+      "uri":"https://www.youtube.com/watch?v=tEZZtcqI9xA"
+    },
+    {"title":"The 100 Greatest Theorems in Mathematics",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://ih0.redbubble.net/image.395376479.5231/ap,550x550,16x12,1,transparent,t.u2.png",
+      "uri":"https://www.rcgeeks.co.uk/blog/phantom-4-basic-teardown-whats-inside"
+    },
+    {"title":"1.1 Billion Taxi Rides: Spark 2.4.0 versus Presto 0.214",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Apache_Spark_Logo.svg/1200px-Apache_Spark_Logo.svg.png",
+      "uri":"https://tech.marksblogg.com/billion-nyc-taxi-rides-spark-2-4-versus-presto-214.html"
+    },
+    {"title":"Dr. Bronner's Factory Tour: Liquid Soap Production",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Emanuel_Bronner.jpg/220px-Emanuel_Bronner.jpg",
+      "uri":"https://www.youtube.com/watch?v=ypRLYpfa2GQ"
+    },
+
+    {"title":"Kafka Connect Elasticsearch: Consuming and Indexing with Kafka",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png",
+      "uri":"https://sematext.com/blog/kafka-connect-elasticsearch-how-to/"
+    },
+
+    {"title":"NLP & Healthcare:Understanding the Language of Medicine",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://cdn0.iconfinder.com/data/icons/insurance-fill/128/insurance-Fill-22-512.png",
+      "uri":"https://medium.com/curai-tech/nlp-healthcare-understanding-the-language-of-medicine-e9917bbf49e7"
+    },
+    {"title":"Big Data Processing at Spotify: The Road to Scio (Part 1)",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://cdn.imgbin.com/8/22/0/imgbin-spotify-logo-streaming-media-apple-music-others-PJEZ7gHwM28AZAtiaxk5NLRR5.jpg",
+      "uri":"https://labs.spotify.com/2017/10/16/big-data-processing-at-spotify-the-road-to-scio-part-1/"
+    },
+    {"title":"Buena Vista Social Club - Chan Chan (Official Audio)",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://ca-times.brightspotcdn.com/dims4/default/73a6a0f/2147483647/strip/true/crop/1540x946+0+0/resize/840x516!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2Ffa%2Fdadc4456d77fc26bf929c6c3af56%2Fla-et-mn-cuban-music-documentary-buena-vista-s-001",
+      "uri":"https://youtu.be/o5cELP06Mik"
+    },
+    {"title":"Refugee from the Zepa enclave",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
+      "uri":"https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg"
+    },
+    {"title":"Refugee from the Zepa enclave",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
+      "uri":"https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg"
+    },
+    {"title":"Refugee from the Zepa enclave",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
+      "uri":"https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg "
+    },
+  {"title":"Refugee from the Zepa enclave",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
+      "uri":"https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg "
+    },
+  {"title":"Refugee from the Zepa enclave",
+      "body":"Atlantis, The Lost Empire",
+      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
+      "uri":"https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg "
+    }
+  ]
+
+}
