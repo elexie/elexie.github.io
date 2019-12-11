@@ -142,7 +142,7 @@ contains only overflowing divs and the navigation*/
       {
         width: 100%;
         height: 50%;
-        background-image: url("../icons/rightArrow.png");
+        background-image: url("../icons/right.png");
         background-repeat: no-repeat;
         background-size: contain;
       }
@@ -154,7 +154,7 @@ contains only overflowing divs and the navigation*/
       {
         width: 100%;
         height: 50%;
-        background-image: url("../icons/rightArrow.png");
+        background-image: url("../icons/left.png");
         background-repeat: no-repeat;
         background-size: contain;
       }
