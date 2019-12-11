@@ -255,11 +255,18 @@ function navigateBookmarks()
     }
   });
 }
-
+function scrollToGrid()
+{
+  $("#page1_menu_right_rightBox_top_img").click(function(){
+    // alert("asejere");
+    document.getElementById("page3").scrollIntoView();
+  })
+}
 $(document).ready(function(){
 //  $("#squares6_topElement_nav").html = "cardStructure";
 // alert($("#squares6_topElement_cards_actual").html)
 loadProjGrid(lastPageItemsCount=12,resourceName="page1");
 loadBookmarks();
 navigateBookmarks();
+scrollToGrid();
 });
