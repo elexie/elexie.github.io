@@ -501,7 +501,7 @@ contains only overflowing divs and the navigation*/
 
             margin-top: 29%;
             animation: 1s ease-out 0s 1 slideInFromTop;
-
+            color: ;
           }
             #aboutMeTitle
             {
@@ -545,6 +545,8 @@ contains only overflowing divs and the navigation*/
               margin-left: 1%;
               display: flex;
               flex-direction: column;
+
+              color:;
             }
               .moreAboutMeRow
               {
