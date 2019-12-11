@@ -1,0 +1,72 @@
+{
+  "page1":[
+    {"type":"text",
+      "title":"Making API Calls With URLSession",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+     {"type":"text",
+      "title":"Atlantis, The Lost Empire",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+     {"type":"text",
+      "title":"Dog Breed Detector with Tensorflow",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+     {"type":"text",
+      "title":"Atlantis, The Lost Empire",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+     {"type":"text",
+      "title":"Atlantis, The Lost Empire",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+    {"type":"text",
+      "title":"Asynchronous Requests in ExpresJS()",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+
+     {"type":"text",
+      "title":"Data Visualization with MatPlotLib",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+
+    {"type":"text",
+      "title":"Training an Image Detector on a Raspberry Pi",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+   {"type":"text",
+      "title":"Enron Dataset on NEO4j",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+    {"type":"text",
+      "title":"XMLHTTPRequest to a JSON File from javascript",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+  {"type":"text",
+      "title":"SMTP Protocol and Sending an Email From Powershell",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    },
+    {"type":"text",
+        "title":"REST Request to OCR API from Raspberry Pi with NodeJS",
+        "text":"NodeJS Express JS",
+        "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+      },
+  {"type":"text",
+      "title":"Promises, Asynchronous and Parallel in javascript",
+      "text":"NodeJS Express JS",
+      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+    }
+  ]
+
+}
