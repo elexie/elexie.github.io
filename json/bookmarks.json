@@ -52,30 +52,30 @@
       "preview_content":"https://ca-times.brightspotcdn.com/dims4/default/73a6a0f/2147483647/strip/true/crop/1540x946+0+0/resize/840x516!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2Ffa%2Fdadc4456d77fc26bf929c6c3af56%2Fla-et-mn-cuban-music-documentary-buena-vista-s-001",
       "uri":"https://youtu.be/o5cELP06Mik"
     },
-    {"title":"Refugee from the Zepa enclave",
+    {"title":"Predicting Flight Delays Using Apache APIs",
       "body":"Atlantis, The Lost Empire",
-      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
-      "uri":"https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg"
+      "preview_content":"https://mapr.com/blog/fast-data-processing-pipeline-predicting-flight-delays-using-apache-apis-pt-1/assets/spark-rdd-based-api.png",
+      "uri":"https://dzone.com/articles/fast-data-processing-pipeline-for-predicting-fligh"
     },
-    {"title":"Refugee from the Zepa enclave",
+    {"title":"Microservices: Decomposing Applications for Deployability and Scalability",
       "body":"Atlantis, The Lost Empire",
-      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
-      "uri":"https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg"
+      "preview_content":"https://res.infoq.com/articles/microservices-intro/en/resources/Fig1-small.png",
+      "uri":"https://www.infoq.com/articles/microservices-intro/"
     },
-    {"title":"Refugee from the Zepa enclave",
+    {"title":"ATM Fraud Detection with Apache Kafka and KSQL",
       "body":"Atlantis, The Lost Empire",
-      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
-      "uri":"https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg "
+      "preview_content":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png",
+      "uri":"https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql/"
     },
-  {"title":"Refugee from the Zepa enclave",
+  {"title":"Opportunity Insights Data Library",
       "body":"Atlantis, The Lost Empire",
-      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
-      "uri":"https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg "
+      "preview_content":"https://opportunityinsights.org/wp-content/uploads/2018/09/Logo-for-WEB-updates.png",
+      "uri":"https://opportunityinsights.org/data/"
     },
-  {"title":"Refugee from the Zepa enclave",
+  {"title":"12k photos of American roadside attractions Library of Congress",
       "body":"Atlantis, The Lost Empire",
-      "preview_content":"https://analyticsindiamag.com/wp-content/uploads/2019/11/tesla_pytorch_analytics_india_mag.jpg",
-      "uri":"https://interactive-examples.mdn.mozilla.net/media/examples/grapefruit-slice-332-332.jpg "
+      "preview_content":"https://www.blogs.va.gov/VAntage/wp-content/uploads/2016/09/Library-of-Congress-reading-room.jpg",
+      "uri":"https://www.reddit.com/r/datahoarders/comments/czm8f7/12k_photos_of_american_roadside_attractions/"
     }
   ]
 
