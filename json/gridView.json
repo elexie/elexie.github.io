@@ -2,27 +2,27 @@
   "page1":[
     {"type":"text",
       "title":"Making API Calls With URLSession",
-      "text":"NodeJS Express JS",
+      "text":"mobile",
       "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
     },
      {"type":"text",
-      "title":"Atlantis, The Lost Empire",
-      "text":"NodeJS Express JS",
+      "title":"Difference between /etc/paths and ~/.bash_profile",
+      "text":"System Internals",
       "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
     },
      {"type":"text",
-      "title":"Dog Breed Detector with Tensorflow",
-      "text":"NodeJS Express JS",
+      "title":"Detecting Electronic Components",
+      "text":"Computer Vision",
+      "uri":""
+    },
+     {"type":"text",
+      "title":"Modeling the Enron Dataset with 4 DBs",
+      "text":"Databases",
       "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
     },
      {"type":"text",
-      "title":"Atlantis, The Lost Empire",
-      "text":"NodeJS Express JS",
-      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
-    },
-     {"type":"text",
-      "title":"Atlantis, The Lost Empire",
-      "text":"NodeJS Express JS",
+      "title":"Cancer Detection with dataset from kaggle",
+      "text":"computer vision",
       "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
     },
     {"type":"text",
@@ -33,18 +33,18 @@
 
      {"type":"text",
       "title":"Data Visualization with MatPlotLib",
-      "text":"NodeJS Express JS",
+      "text":"Machine Learning",
       "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
     },
 
     {"type":"text",
-      "title":"Training an Image Detector on a Raspberry Pi",
-      "text":"NodeJS Express JS",
-      "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
+      "title":"Training an Image Classifier on a Raspberry Pi",
+      "text":"Computer Vision",
+      "uri":"Computer Vision"
     },
    {"type":"text",
-      "title":"Enron Dataset on NEO4j",
-      "text":"NodeJS Express JS",
+      "title":"Connecting various Databases to Kafka",
+      "text":"Apacke Kafka",
       "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
     },
     {"type":"text",
@@ -54,7 +54,7 @@
     },
   {"type":"text",
       "title":"SMTP Protocol and Sending an Email From Powershell",
-      "text":"NodeJS Express JS",
+      "text":"system internals",
       "uri":"https://images.idgesg.net/images/article/2018/07/apple-6-color-logo-100763179-large.jpg"
     },
     {"type":"text",
